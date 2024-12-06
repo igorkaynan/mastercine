@@ -3,6 +3,8 @@
 
 Este projeto é uma Lista de Tarefas desenvolvida com **HTML**, **CSS** e **PHP**. Este é um projeto simples de catálogo de filmes, desenvolvido utilizando HTML, CSS e PHP. O objetivo é fornecer uma maneira interativa e responsiva para visualizar o catálogo de filmes.
 
+Observação:(Este projeto foi o meu primeiro projeto, e foi ele que me abriu as portas para o meu primeiro emprego.)
+
 ## Funcionalidades
 
 - Página de catálogo de filmes, onde os usuários podem visualizar título, sinopse, nota e imagem de capa.
